@@ -124,7 +124,7 @@ void setValueSmallStyle(){
 
 void setDetailStyle(){
   tft.loadFont(MatchaMint14);
-  tft.setTextColor(BUTTER, BACKGROUND, false);
+  tft.setTextColor(MOSS, BACKGROUND, false);
 }
 
 void setTitleStyle(){
