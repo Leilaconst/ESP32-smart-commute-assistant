@@ -57,7 +57,7 @@ void testHttpRequest() {
   Serial.println("Sending test HTTP request to httpbin.org...");
 
   //Configure the request target and prepare the connection
-  http.begin("https://dawn-smoke-7ea0.leilacon05.workers.dev/json");
+  http.begin("http://httpbin.org/get");
 
   //Sends the request over the network and waits for a response --> returns an int
   //  Positive number: HTTP status code the server sent back (200--> success, 4xx/5xx--> error)
