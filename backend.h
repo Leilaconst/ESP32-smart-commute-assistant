@@ -10,6 +10,7 @@
 // char ssid[] = "secret";
 // char pass[] = "secret";
 // char http[] = "secret";
+// char device_key[] = "secret";
 
 //Calendar block data
 extern String next_event;
