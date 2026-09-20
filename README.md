@@ -4,7 +4,7 @@ An ESP32-based desk display that answers one question every morning: **"When do 
 
 Commute Assistant pulls your next Google Calendar event, the current weather, and a live transit route, then boils it all down into a single leave-by time — plus a plain-language nudge on what to wear — rendered on a small pixel-art TFT display.
 
-![Display mockup](./assets/display_layout.png)
+![Display mockup](./images/display_layout.png)
 
 ## Overview
 
