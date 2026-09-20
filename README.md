@@ -129,7 +129,7 @@ Text styling is centralized into small style helpers (`setHeaderStyle()`, `setVa
 
 ### Color Palette
 
-![Color palette](./assets/project_palette.jpg)
+![Color palette](./images/project_palette.jpg)
 
 | Name | Hex |
 |---|---|
